@@ -1,0 +1,95 @@
+The terms dynamic equivalence and formal equivalence, coined by Eugene Nida, are associated with two dissimilar translation approaches that are employed to achieve different levels of literalness between the source text and the target text, as evidenced in biblical translation.
+The two have been understood basically, with dynamic equivalence as sense-for-sense translation (translating the meanings of phrases or whole sentences) with readability in mind, and with formal equivalence as word-for-word translation (translating the meanings of words and phrases in a more literal way), keeping literal fidelity.
+
+
+== Approaches to translation ==
+Formal equivalence approach tends to emphasize fidelity to the lexical details and grammatical structure of the original language, whereas dynamic equivalence tends to employ a more natural rendering but with less literal accuracy.
+According to Eugene Nida, dynamic equivalence, the term as he originally coined, is the "quality of a translation in which the message of the original text has been so transported into the receptor language that the response of the receptor is essentially like that of the original receptors." The desire is that the reader of both languages would understand the meanings of the text in a similar fashion.
+In later years, Nida distanced himself from the term "dynamic equivalence" and preferred the term "functional equivalence". What the term "functional equivalence" suggests is not just that the equivalence is  between the function of the source text in the source culture and the function of the target text (translation) in the target culture, but that "function" can be thought of as a property of the text. It is possible to associate functional equivalence with how people interact in cultures.
+
+
+== Theory and practice ==
+Because functional equivalence approach eschews strict adherence to the grammatical structure of the original text in favor of a more natural rendering in the target language, it is sometimes used when the readability of the translation is more important than the preservation of the original grammatical structure.
+Formal equivalence is often more goal than reality, if only because one language may contain a word for a concept which has no direct equivalent in another language. In such cases, a more dynamic translation may be used or a neologism may be created in the target language to represent the concept (sometimes by borrowing a word from the source language).
+The more the source language differs from the target language, the more difficult it may be to understand a literal translation without modifying or rearranging the words in the target language. On the other hand, formal equivalence can allow readers familiar with the source language to analyze how meaning was expressed in the original text, preserving untranslated idioms, rhetorical devices (such as chiastic structures in the Hebrew Bible) and diction in order to preserve original information and highlight finer shades of meaning.
+
+
+== Overlooked semantic differences between alleged equivalents in the source and target languages ==
+According to Ghil'ad Zuckermann, a major problem lies in the fact that there are completely overlooked semantic differences between a lexical item in the source language and its alleged equivalent in the target language.: 216 Zuckermann provides the example of the lexical item for "angels" in three different languages: English (angels), Arabic (malāʾika) and Hebrew (מלאכים malakhím). These three terms are used to translate each other interchangeably, as if they meant exactly the same thing. As Zuckermann puts it, "for the non-sophisticated layman, an angel is an angel is angel.": 216  However, employing Natural Semantic Metalanguage to discover in depth the exact, complex meaning of each of the three lexical items, Zuckermann points out numerous differences that were identified by Sandy Habib, as following:: 216 
+Angels and malāʾika seem to be perceived as being in the place to which good people go after they die. Malakhím, on the other hand, seem to be perceived as being in a place that includes the place to which good people go after they die. Angels seem to be perceived as living in a hierarchical world; thus some angels appear to be higher in status than other angels. On the other hand, no linguistic evidence has been found in the corpus that demonstrates that Muslim Arabs view some of malāʾika as being superior to other beings of their kind. Some Islamic religious sources do speak of hierarchy among malāʾika, but, as no evidence has been found in the corpus to support this idea, it can be concluded that this idea might not be known to ordinary Muslim Arabs. The same holds for malakhím. The Hebrew Corpus shows eleven occurrences of the expressions malákh rashí (lit. ‘a chief malákh’). In seven of these contexts, the expression is used as an attempt to translate the English word archangel or the Romanian word Arhanghelul. In three other contexts, it is used to talk about one of the three angels that appeared to Abraham before the destruction of Sodom and Gomorrah; in these contexts, the malákh rashí is identified as God. In the eleventh context, the expression is used to talk about the devil in Islam. As a result, it can be concluded that no conclusive linguistic evidence has been found in the corpus to support the idea that native Hebrew speakers believe that some malakhím are higher in status than other malakhím.: 216 Angels and malakhím appear to be perceived as being immortal. Their immortality stems from the notion that they are spirits, and spirits do not die. On the other hand, Arabic malāʾika’s (im)mortality does not seem to be clear, as there was no evidence found in the corpus that shows whether Muslim Arabs think that these beings die or not.: 216 The three non-human beings also differ in their visual representation/appearance. Native English speakers and native Hebrew speakers seem to have the idea that angels and malakhím, respectively, are incorporeal, but notwithstanding, they depict them in a certain way. Muslim Arabs, on the other hand, are not allowed to produce drawings, paintings, or statues of malāʾika, or even imagine what they might look like. Whereas an angel or malákh can be imagined as having two wings, Arabic malāk can have (and not ‘can be imagined to have’) two or more wings. Native English speakers depict an angel’s wings as white bird-like wings, while Muslim Arabs and native Hebrew speakers can tell nothing about the colour or appearance of the wings of a malāk or malákh, respectively. Angels are depicted as having halos above their heads or light radiating from their bodies, and malāʾika are believed to have been created from light. Malakhím, on the other hand, do not seem to be imagined with halos or light.: 217 More differences emerge when examining the relationship between the three non-human beings and people. Unlike angels, who seem to be perceived as doing only good things to people, malāʾika and malakhím seem to be perceived as beings who are capable of doing good, as well as bad things to people. Also, unlike Muslim Arabs, native English speakers and native Hebrew speakers do not have the notion that angels or malakhím, respectively, play any role in tormenting people after their death.: 217 
+
+
+== Bible translation ==
+Translators of the Bible have taken various approaches in rendering it into English, ranging from an extreme use of formal equivalence, to extreme use of dynamic equivalence.
+Predominant use of formal equivalence
+Douay–Rheims Bible (1610)
+King James Bible (1611)
+Young's Literal Translation (1862)
+Revised Version (1885)
+American Standard Version (1901)
+Concordant Version (1926)
+Revised Standard Version (1952)
+Revised Standard Version Catholic Edition (1966)
+New American Standard Bible (1971)
+New King James Version (1982)
+Green's Literal Translation (1985)
+New Jewish Publication Society Tanakh (1985)
+New Revised Standard Version (1989)
+Orthodox Study Bible (1993)
+Third Millennium Bible (1998)
+Recovery Version (1999)
+World English Bible (2000)
+English Standard Version (2001)
+Revised Standard Version Second Catholic Edition (Ignatius Bible) (2006)
+Lexham English Bible (2011)
+Modern English Version (2014)
+Tree of Life Version (2014)
+English Standard Version Catholic Edition (2018)
+Literal Standard Version (2020)Moderate use of both formal and dynamic equivalence (optimal equivalence)The Holy Bible: Knox Version (1955)
+New World Translation of the Holy Scriptures (1961, revised 1984, 2013)
+Confraternity Bible (1969)
+Modern Language Bible (1969)
+New American Bible (1970, revised 1986 & 1991)
+Holman Christian Standard Bible called "optimal equivalence" (2004)
+New Community Bible (2008)
+New American Bible Revised Edition (2011)
+Christian Standard Bible (2017)
+Evangelical Heritage Version (2019)
+New Catholic Bible / New Catholic Version  (St. Joseph New Catholic Bible) (2019)
+Revised New Jerusalem Bible (2019)Extensive use of dynamic equivalence or paraphrase or bothAmplified Bible (1965)
+Jerusalem Bible (1966)
+New Life Version (1969)
+New English Bible (1970)
+Good News Bible (formerly "Today's English Version") (1976)
+New International Version (1978)
+New Jerusalem Bible (1985)
+Easy-to-Read Version (1987)
+Christian Community Bible (1988)
+Revised English Bible (1989)
+God's Word Translation (1995)
+Contemporary English Version (1995)
+New Living Translation (1996)
+Complete Jewish Bible (1998)
+New International Reader's Version 1998
+New English Translation (2005)
+Today's New International Version  2005
+CTS New Catholic Bible (2007)Extensive use of paraphraseThe Living Bible (1971)
+The Message Bible (2002)
+The Voice (2012)
+EasyEnglish Bible (2018)
+
+
+== See also ==
+Bible concordance
+Bible version debate
+Exploratory data analysis
+Lexical markup framework
+Natural semantic metalanguage
+Ted Woolsey, known for his use of dynamic equivalence in translations of Japanese video games
+Textualism in jurisprudence:
+Original meaning (cf. formal equivalence)
+Original intent (cf. dynamic equivalence)
+Purposivism (also called purposive theory)
+
+
+== References ==

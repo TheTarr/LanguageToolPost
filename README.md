@@ -1,6 +1,6 @@
 # LanguageToolPost
 
-## Files
+## Python Files
 
 wiki_util.py
 
@@ -26,3 +26,16 @@ lang8.py
 
 - Generate original sentences, modified sentences and modified sentences by LanguageTool from Lang-8 dataset, English.
 
+## Folders
+
+json
+
+- W&I dataset
+
+wiki_text
+
+- Wikipedia page crawled
+
+english_evaluation
+
+- 3 txt files for ERRANT, both W&I and Lang-8. Origin for original text, target is target text, lt is LanguageTool modified text.
